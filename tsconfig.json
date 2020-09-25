@@ -1,0 +1,15 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "baseUrl": ".",
+        "declaration": true,
+        "sourceMap": true,
+        "inlineSources": true,
+        "outDir": "./dist",
+        "strict": true,
+        "strictNullChecks": false,
+        "target": "ES6"
+    }
+}
